@@ -1,0 +1,2 @@
+C:\Users\Auser\Desktop\WeChatSample\build\intermediates\classes\debug
+C:\Users\Auser\Desktop\WeChatSample\build\intermediates\pre-dexed\debug\android-support-v4-562954683b169414659f4e2bc116c8289025244e.jar
